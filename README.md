@@ -10,10 +10,15 @@ VigilEye aims to develop a system that uses machine learning techniques to detec
 
 ## Model training Outputs
 <img src="https://github.com/atisamhaq123/VigilEye/blob/main/images/result.png">
-<img src="https://github.com/atisamhaq123/VigilEye/blob/main/images/result#.png">
+<img src="https://github.com/atisamhaq123/VigilEye/blob/main/images/result%23.png">
 <br>
 <b>Classification Report</b>
+<br>
 <img src="https://github.com/atisamhaq123/VigilEye/blob/main/images/class.PNG">
+
+## Results
+<img src="https://github.com/atisamhaq123/VigilEye/blob/main/images/result1.png"/>
+<img src="https://github.com/atisamhaq123/VigilEye/blob/main/images/result2.PNG"/>
 
 ## Contributing
   Contributions to VigilEye are welcome and encouraged. Here are some ways you can contribute:
